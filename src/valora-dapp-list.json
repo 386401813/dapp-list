@@ -199,4 +199,9 @@
       "url": "https://churrito.fi"
     }
   ]
-}
+},
+{
+      "name": "MEME exchange",
+      "id": "MEME",
+      "categoryId": "Exchange",
+      "url": "https://meme.vin"
